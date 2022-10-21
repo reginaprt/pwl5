@@ -1,0 +1,4 @@
+PERTEMUAN 3
+route : menyambungkan gerbang
+get : mengambil alamat
+controller : menangani root yang sebelumnya
